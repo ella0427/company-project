@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    //////////Ãâ·Â¹®//////////////
-    printf("hello\n");
+    
+    printf("i am freshman\n");
     return 0;
 }
